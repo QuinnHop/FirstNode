@@ -1,4 +1,4 @@
-const message = 'hello other world';
+const message = 'hello other world 2';
 
 const getMessage = () => {
     console.log(message);
